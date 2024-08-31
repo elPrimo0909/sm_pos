@@ -6,6 +6,7 @@
 - Factura Pos
 - Inventario
 - Informes
+- 3 Usuarios
 - Instalación en su computador, funciona sin internet
 
 
