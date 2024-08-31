@@ -4,6 +4,7 @@
 <h1 align="center">SOFTWARE POS</h1>
 <img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/pos1.png" > 
 <img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/pos2.png" > 
+<img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/pos3.png" > 
 
 <a href="https://sm-software-colombia.github.io/sm/img/logoPOS2.png" id="logo"></a>
 <br/>
