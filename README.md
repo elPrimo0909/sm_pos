@@ -1,7 +1,7 @@
 
 <p align="center">
 
-
+<h1 align="center">SOFTWARE POS</h1>
 ## Funcionalidades
 - Factura Pos
 - Inventario
@@ -9,7 +9,7 @@
 - Instalación en su computador, funciona sin internet
 
 
-<h1 align="center">SOFTWARE POS</h1>
+
 <img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/pos1.png" > 
 <img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/pos2.png" > 
 <img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/pos3.png" >
