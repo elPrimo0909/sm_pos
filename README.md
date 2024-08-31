@@ -1,4 +1,12 @@
+
 <p align="center">
+
+
+## Funcionalidades
+- Factura Pos
+- Inventario
+- Informes
+- Instalación en su computador, funciona sin internet
 
 
 <h1 align="center">SOFTWARE POS</h1>
@@ -15,12 +23,5 @@
 </a>
 </p>
 <br/>
-
-
-## Funcionalidades
-- Factura Pos
-- Inventario
-- Informes
-- Instalación en su computador, funciona sin internet
 
 
